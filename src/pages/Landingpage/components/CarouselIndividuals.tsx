@@ -7,7 +7,7 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "@/components/ui/carousel"
-export default function IndividualsRcm() {
+export default function CarouselIndividuals() {
     return (
         <div className="w-full h-full justify-start items-start">
             <div className="text-3xl font-bold my-8">Popular individuals</div>

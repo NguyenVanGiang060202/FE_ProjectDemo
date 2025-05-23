@@ -7,10 +7,9 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "@/components/ui/carousel"
-export default function BussinessRcm() {
+export default function CarouselServices() {
     return (
-        <div className="w-full h-full justify-start items-start">
-            <div className="text-3xl font-bold my-8">Popular salons</div>
+        <div className="w-full h-full justify-start items-start">   
             <div className=" flex justify-between items-center w-full h-full">
                 <Carousel
                     opts={{
